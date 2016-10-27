@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 'House-A-Rama';
+	src: url('fonts/House-A-Rama-Kingpin.eot');
+	src: url('fonts/House-A-Rama-Kingpin.eot?#iefix') format('embedded-opentype'),
+		url('fonts/House-A-Rama-Kingpin.woff2') format('woff2'),
+		url('fonts/House-A-Rama-Kingpin.woff') format('woff'),
+		url('fonts/House-A-Rama-Kingpin.ttf') format('truetype'),
+		url('fonts/House-A-Rama-Kingpin.svg#House-A-Rama-Kingpin') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#container {
+	font-family: 'House-A-Rama';
+}
+
+#preview {
+	background-color:#999;
+}
